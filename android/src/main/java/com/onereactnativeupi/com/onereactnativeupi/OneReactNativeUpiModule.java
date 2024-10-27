@@ -8,6 +8,8 @@ import androidx.annotation.NonNull;
 import android.content.pm.ResolveInfo;
 import android.content.pm.PackageManager;
 
+import com.facebook.react.module.annotations.ReactModule;
+
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.ReadableMap;
